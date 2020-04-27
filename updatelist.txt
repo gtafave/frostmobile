@@ -1,0 +1,5 @@
+samp https://rocld.com/ma3b1
+full https://rocld.com/ma3b2
+mali https://rocld.com/ma3b4
+adreno https://rocld.com/ma3b3
+power https://rocld.com/ma3b5
