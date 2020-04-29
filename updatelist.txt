@@ -1,4 +1,4 @@
-samp https://rocld.com/ma3b1
+samp https://rocld.com/ma3ed
 full https://rocld.com/ma3b2
 mali https://rocld.com/ma3b4
 adreno https://rocld.com/ma3b3
