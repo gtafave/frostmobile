@@ -3,5 +3,5 @@ full https://rocld.com/ma3b2
 mali https://rocld.com/ma3b4
 adreno https://rocld.com/ma3b3
 power https://rocld.com/ma3b5
-liteapk https://rocld.com/ma48t
-fullapk https://rocld.com/ma48u
+liteapk https://rocld.com/ma490
+fullapk https://rocld.com/ma491
