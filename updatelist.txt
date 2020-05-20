@@ -1,5 +1,5 @@
 samp https://rocld.com/ma44x
-full https://rocld.com/ma3b2
+full http://35.246.15.118/download/gta_standard_v1.zip
 mali https://rocld.com/ma3b4
 adreno https://rocld.com/ma3b3
 power https://rocld.com/ma3b5
